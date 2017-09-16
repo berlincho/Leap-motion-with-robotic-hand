@@ -1,0 +1,12 @@
+-- 1x raptor_reloaded_left_palm_supported.stl or raptor_reloaded_right_palm_supported.stl
+-- 2x raptor_reloaded_knuckle_pin.stl
+-- 1x raptor_reloaded_thumb_pin.stl
+-- 5x raptor_2.0_proximal.stl
+-- 5x raptor_2.0_finger_pin.stl
+-- 5x raptor_2.0_fingertip.stl
+-- 1x raptor_reloaded_gauntlet_supported.stl
+-- 2x raptor_reloaded_wirst_pin.stl
+-- 2x raptor_reloaded_wrist_pin_cap.stl
+-- 1x raptor_reloaded_tensioner.stl
+-- 1xraptor_reloaded_retention_clip.stl
+-- 5x raptor_reloaded_tensioner_pin.stl
