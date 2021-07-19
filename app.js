@@ -1,7 +1,7 @@
 // IMPORT NEEDED MODULES AND SCRIPTS
 var five = require("johnny-five"),
-	handToHand = require('../lib/handToHand'),
-	Leap = require("../lib/index"),
+	handToHand = require('./lib/handToHand'),
+	Leap = require("./lib/index"),
 	board, servo;
 
 // ASSIGN ARDUINO BOARD

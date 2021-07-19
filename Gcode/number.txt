@@ -8,5 +8,5 @@
 -- 2x raptor_reloaded_wirst_pin.stl
 -- 2x raptor_reloaded_wrist_pin_cap.stl
 -- 1x raptor_reloaded_tensioner.stl
--- 1xraptor_reloaded_retention_clip.stl
+-- 1x raptor_reloaded_retention_clip.stl
 -- 5x raptor_reloaded_tensioner_pin.stl

@@ -1,0 +1,29 @@
+{
+  "name": "leap-motion-with-robotic-hand",
+  "version": "1.0.0",
+  "description": "This is an project using Leap motion and Arduino to make robotic hands. There are also Gcode to do 3D-printing.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berlincho/Leap-motion-with-robotic-hand.git"
+  },
+  "author": "Berlin Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berlincho/Leap-motion-with-robotic-hand/issues"
+  },
+  "homepage": "https://github.com/berlincho/Leap-motion-with-robotic-hand#readme",
+  "dependencies": {
+    "gl-matrix": "^3.3.0",
+    "johnny-five": "^2.1.0",
+    "underscore": "^1.13.1",
+    "ws": "^7.5.3"
+  }
+}
